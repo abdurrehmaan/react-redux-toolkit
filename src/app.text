@@ -1,0 +1,19 @@
+//action 
+//reducer
+//store
+
+//usedispatch 
+//useSelector
+
+
+//redux toolkit
+slice
+export action and reudcer 
+
+store
+
+
+REdux toolkit flow
+
+action >> dispatch >> slice >> stateupdate >> store 
+
